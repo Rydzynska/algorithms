@@ -1,0 +1,10 @@
+sugar,3
+salt,2
+flour,9
+corn flakes,2
+milk,5
+pepper,1
+butter,5
+oil,4
+pepsi,3
+buckwheat,5
